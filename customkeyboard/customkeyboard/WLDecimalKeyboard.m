@@ -92,6 +92,13 @@ static UIImage *wldk_delete_icon()
     return [UIImage imageWithCGImage:image.CGImage
                                scale:scale
                          orientation:UIImageOrientationUp];
+    
+    
+    
+    
+    
+    
+    
 }
 
 static UIImage *wldk_keyboard_icon()
